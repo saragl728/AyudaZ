@@ -1,2 +1,2 @@
 # Base-Ayudas
-Repositorio plantilla para las demás guías
+Repositorio de ayuda para Pokémon Z
