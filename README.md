@@ -1,2 +1,2 @@
-# Base-Ayudas
+# Ayuda Z
 Repositorio de ayuda para Pokémon Z
